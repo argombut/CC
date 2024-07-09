@@ -16,6 +16,26 @@ button {
   border-color: transparent;
 }
 
+.etherscan{
+  color: white;
+
+}
+
+p.etherscan::before{
+  content: "";
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  background-image:url("assets/images/etherscan-logo.jpg") no-repeat;
+  background-size: contain;
+  float: left;
+  margin-right: 15px;
+}
+
+.newlines{
+  border: 2px solid #36d4f4;
+}
+
 .embla__button,
 .carousel-control {
   background-color: #edefea !important;

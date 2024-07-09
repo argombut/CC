@@ -209,9 +209,9 @@ body {
 }
 .btn-info,
 .btn-info:active {
-  background-color: #0dc5ea !important;
+  background-color: #ffffff !important;
   border-color: #0dc5ea !important;
-  color: #ffffff !important;
+  color: #black !important;
   box-shadow: none;
 }
 .btn-info:hover,
